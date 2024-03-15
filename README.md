@@ -2,6 +2,8 @@
 
 Welcome to the Amazon Apparel Analytics Dashboard, a powerful tool designed to provide in-depth insights into the performance and trends of apparel products on Amazon. This meticulously crafted Power BI Dashboard serves as a cornerstone for retailers, enabling them to make informed, data-driven decisions that drive success in the competitive landscape of online retail. Let's delve into the key findings from our analysis of the main plot:
 
+![Screenshot](Image/main.png)
+
 ## Overall Performance Metrics:
 
 **Total Items Sold:** Our analysis reveals that a substantial 116,649 items have been sold on the website, reflecting a robust level of consumer engagement.
