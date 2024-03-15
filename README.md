@@ -2,7 +2,7 @@
 
 Welcome to the Amazon Apparel Analytics Dashboard, a powerful tool designed to provide in-depth insights into the performance and trends of apparel products on Amazon. This meticulously crafted Power BI Dashboard serves as a cornerstone for retailers, enabling them to make informed, data-driven decisions that drive success in the competitive landscape of online retail. Let's delve into the key findings from our analysis of the main plot:
 
-![Screenshot](Image/main.png)
+![Screenshot](Image/Main.png)
 
 ## Overall Performance Metrics:
 
@@ -39,6 +39,8 @@ Within the FBM segment, "Set" maintains its dominance with 47.29% of sales, foll
 
 ### Order Analysis:
 
+![Screenshot](Image/1.png)
+
 #### Fulfillment Dynamics:
 Our analysis reveals that Amazon Service fulfills the majority of orders, comprising 70% of total order volume, while Easy Ship handles the remaining 30%, ensuring streamlined delivery operations.
 
@@ -47,6 +49,8 @@ The distribution of order statuses showcases that a significant 60% of orders ar
 
 ### Product Analysis:
 
+![Screenshot](Image/4.png)
+
 #### Category Insights:
 Delving deeper into product analysis, "Set" and "Kurta" emerge as the top-selling categories, reflecting strong consumer preference and demand.
 
@@ -54,6 +58,7 @@ Delving deeper into product analysis, "Set" and "Kurta" emerge as the top-sellin
 Analysis of size preferences reveals that Medium (M) size dominates orders at 18%, followed by Large (L) and Extra Large (XL), providing valuable insights for inventory management.
 
 ### Sales Analysis:
+![Screenshot](Image/2.png)
 
 #### Trend Analysis:
 Our comprehensive analysis of sales trends from April 1, 2022, to June 28, 2022, uncovers fluctuations in sales performance, with peak sales recorded on May 4th and the lowest on June 24th.
@@ -62,6 +67,8 @@ Our comprehensive analysis of sales trends from April 1, 2022, to June 28, 2022,
 By examining sales peaks and lows for individual product categories, our dashboard offers actionable insights for targeted marketing and inventory management strategies.
 
 ### Location Analysis:
+
+![Screenshot](Image/3.png)
 
 #### Geographic Trends:
 Geographical analysis reveals significant variations in order distribution, with Bangalore emerging as the top-order creation hub, followed by Hyderabad, Mumbai, and other key cities.
